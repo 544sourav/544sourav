@@ -11,7 +11,6 @@ Always learning, improving, and shipping projects that solve real problems.
 - 💻 Full-Stack Developer (MERN + React Native)
 - 🌱 Currently learning **DevOps, Cloud & System Design**
 - 👯 Open to collaborating on **high-impact projects & startups**
-- ✍️ I write and share insights about development & engineering
 - 🎯 Passionate about **performance, architecture, and developer experience**
 
 ---
@@ -86,9 +85,7 @@ Always learning, improving, and shipping projects that solve real problems.
 
 - ✅ **Solved 800+ DSA problems**  
 - ⭐ **CodeChef 3★ (Max Rating 1620)**  
-- 🟨 **LeetCode Knight (Max 1854)**  
-- 🎓 Management Head @ **COSSCO**, Member @ **The Syntax Society**  
-- 🥇 Qualified **Smart India Hackathon 2023 & 2024 (internal rounds)**  
+- 🟨 **LeetCode Knight (Max 1854)**   
 
 ---
 
