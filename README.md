@@ -9,7 +9,6 @@ Always learning, improving, and shipping projects that solve real problems.
 ## 🔥 About Me
 
 - 💻 Full-Stack Developer (MERN + React Native)
-- 🌱 Currently learning **DevOps, Cloud & System Design**
 - 👯 Open to collaborating on **high-impact projects & startups**
 - 🎯 Passionate about **performance, architecture, and developer experience**
 
