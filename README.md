@@ -58,15 +58,15 @@ I love turning ideas into production-ready applications while continuously learn
 
 ---
 
-## 🤖 AI & LLM Engineering
+## 🤖 AI / LLM
 
-![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-795548?style=for-the-badge)
-![Vector Database](https://img.shields.io/badge/Vector_Search-009688?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-673AB7?style=for-the-badge)
-![Tool Calling](https://img.shields.io/badge/Tool_Calling-2196F3?style=for-the-badge)
-![Structured Output](https://img.shields.io/badge/Structured_Output-FF9800?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-orange?style=for-the-badge)
+![Vector_DB](https://img.shields.io/badge/Vector_DB-009688?style=for-the-badge)
+![Tool_Calling](https://img.shields.io/badge/Tool_Calling-blue?style=for-the-badge)
+![Structured_Output](https://img.shields.io/badge/Structured_Output-purple?style=for-the-badge)
+![Prompt_Engineering](https://img.shields.io/badge/Prompt_Engineering-black?style=for-the-badge)
 
 ---
 
@@ -209,13 +209,13 @@ AI-assisted mental wellness journal.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=544sourav&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=544sourav&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=544sourav&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=544sourav&layout=compact&theme=tokyonight"/>
 
 </p>
 
