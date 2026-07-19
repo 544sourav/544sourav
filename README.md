@@ -1,111 +1,237 @@
-# Hi, I'm Sourav Sharma! 👋  
-### 🚀 Full-Stack Developer | MERN | React Native | DevOps Learner
+# Hi there 👋 I'm Sourav Sharma
 
-I build scalable apps, experiment with distributed systems, and focus on delivering clean UI/UX with efficient backend systems.  
-Always learning, improving, and shipping projects that solve real problems.
+<h3 align="center">
+Full-Stack Developer • AI Engineer • MERN • TypeScript • React Native
+</h3>
 
----
-
-## 🔥 About Me
-
-- 💻 Full-Stack Developer (MERN + React Native)
-- 👯 Open to collaborating on **high-impact projects & startups**
-- 🎯 Passionate about **performance, architecture, and developer experience**
+<p align="center">
+Building AI-powered applications, scalable backend systems, and real-time web experiences.
+</p>
 
 ---
 
-## 🛠 Tech Stack & Tools
+# 🚀 About Me
 
-### 💻 Languages  
+I'm a Full Stack Developer who enjoys building products that combine great user experience with scalable backend architecture.
+
+Recently I've been focused on
+
+- 🤖 AI Applications using LLMs
+- 🧠 RAG (Retrieval Augmented Generation)
+- 🔍 Embeddings & Vector Search
+- ⚡ TypeScript Backend Development
+- 📡 Real-time Systems
+- ☁️ DevOps & VPS Deployment
+
+I love turning ideas into production-ready applications while continuously learning new technologies.
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### ⚛️ Frontend & Mobile  
+---
+
+## Frontend
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tamagui](https://img.shields.io/badge/Tamagui-000000?style=for-the-badge)
+![Redux Toolkit](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 🧱 Backend  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+---
 
-### 🗄 Databases & Caching  
+## Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socketdotio)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+---
+
+## AI & LLM
+
+![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-795548?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector_Search-009688?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-673AB7?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-2196F3?style=for-the-badge)
+
+---
+
+## Database
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
 
-### 🧪 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VPS](https://img.shields.io/badge/VPS-333333?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+---
+
+## DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+![BullMQ](https://img.shields.io/badge/BullMQ-red?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary)
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C63E7?style=for-the-badge)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### **Software Development Engineer Intern — Drag (Apr 2025 – May 2025)**  
-- Built responsive creator dashboards & admin panel using **React + Tailwind**, improving navigation by **15%**  
-- Integrated **Razorpay**, automating membership access handling  
-- Developed scalable **REST APIs** with RBAC, improving content delivery by **25%**  
-- Enhanced a **Notion-style editor** with autosave + media support, boosting publishing speed by **30%**
+## Software Development Engineer Intern
+### Drag • Apr 2025 – May 2025
 
----
-
-## 🚀 Featured Projects
-
-### **📘 AI-Powered Journal App (React Native, Expo, Sanity, Clerk, Gemini AI)**  
-- AI-assisted journaling with mood reflection & contextual insights  
-- Rich-media entries + secure subscriptions using Clerk & Stripe  
-- Sanity CMS ensuring scalable, low-latency data delivery  
-
-### **💬 Chit Chat – Real-Time Messaging App (MERN, Socket.io)**  
-- One-to-one & group chats with persistent history  
-- WebSocket-powered real-time sync  
-- Optimized MongoDB queries for low latency  
-
-### **📚 Etech Platform – E-learning System (MERN, Razorpay, Cloudinary)**  
-- Course creation + structured curriculum modules  
-- Seamless Razorpay payments and Cloudinary media integration  
-- Analytics dashboards + Redux Toolkit for enhanced UX  
+- Developed creator dashboards and admin portal using React and Tailwind CSS.
+- Built scalable REST APIs with authentication and role-based access control.
+- Integrated Razorpay payment workflows.
+- Enhanced a Notion-style editor with autosave and media handling.
+- Deployed and maintained applications on VPS using Nginx.
 
 ---
 
-## 🏆 Achievements
+# 🚀 Featured Projects
 
-- ✅ **Solved 800+ DSA problems**  
-- ⭐ **CodeChef 3★ (Max Rating 1620)**  
-- 🟨 **LeetCode Knight (Max 1854)**   
+## 🎮 Quiz Arena - Real-Time Multiplayer Quiz Platform
+
+A real-time multiplayer quiz application where users can compete in live quiz battles, track performance, and challenge other players.
+
+**Tech Stack**
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Socket.io
+- Clerk Authentication
+- Cloudinary
+- Redux Toolkit
+
+### Features
+
+- Real-time multiplayer quiz battles using Socket.io
+- Live score synchronization between players
+- Secure authentication using Clerk
+- Create and manage MCQ-based quizzes
+- Cloudinary integration for media uploads
+- Player history and leaderboard system
+- Responsive quiz interface with optimized user experience
+- Real-time room management and event handling
+
+### Architecture Highlights
+
+- Event-driven communication using WebSockets
+- MongoDB for quiz data, user history, and leaderboard storage
+- Optimized API structure for scalable backend operations
+- Real-time state synchronization across multiple clients
+
+## 📈 Uptime Monitoring Platform
+
+Production-ready uptime monitoring service with distributed workers.
+
+### Features
+
+- Background workers using BullMQ
+- Redis queues
+- Real-time updates with Socket.io
+- Website health monitoring
+- Analytics dashboard
+- Alert system
 
 ---
 
-## 📊 GitHub Stats  
+## 💬 Chit Chat
 
-![Sourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=544sourav&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=544sourav&layout=compact&theme=radical)
+Real-time messaging application.
 
----
+### Features
 
-## 🌍 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srv-shm)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/544sourav)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sourav-personal-portfolio.vercel.app/)
-
----
-
-## 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=544sourav&label=Profile%20Visits&color=blueviolet&style=for-the-badge)
+- One-to-one messaging
+- Group chats
+- Socket.io
+- Image sharing
+- JWT Authentication
+- Online presence
 
 ---
 
-🚀 *"Build. Break. Improve. Repeat."*
+## 📘 AI Journal App
+
+AI-assisted mental wellness journal.
+
+### Features
+
+- React Native
+- Expo
+- Gemini AI
+- Clerk Authentication
+- Stripe Payments
+- Mood Analysis
+
+---
+
+# 🏆 Achievements
+
+🏅 Solved **1200+ DSA Problems**
+
+⭐ CodeChef **3★**
+
+🟨 LeetCode Knight
+
+🎓 B.Tech Computer Science & Engineering (2026)
+
+---
+
+# 📈 Currently Learning
+
+- AI Engineering
+- LLM Application Development
+- RAG Systems
+- Agentic AI
+- Distributed Systems
+- Kubernetes
+- System Design
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=544sourav&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=544sourav&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/srv-shm)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://sourav-personal-portfolio.vercel.app)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/544sourav)
+
+---
+
+![](https://komarev.com/ghpvc/?username=544sourav&style=for-the-badge)
+
+---
+
+> **"Building scalable software, intelligent AI systems, and continuously learning something new every day."**
