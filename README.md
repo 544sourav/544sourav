@@ -58,21 +58,22 @@ I love turning ideas into production-ready applications while continuously learn
 
 ---
 
-## AI & LLM
+## 🤖 AI & LLM Engineering
 
 ![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/Embeddings-795548?style=for-the-badge)
-![Vector Search](https://img.shields.io/badge/Vector_Search-009688?style=for-the-badge)
+![Vector Database](https://img.shields.io/badge/Vector_Search-009688?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-673AB7?style=for-the-badge)
 ![Tool Calling](https://img.shields.io/badge/Tool_Calling-2196F3?style=for-the-badge)
+![Structured Output](https://img.shields.io/badge/Structured_Output-FF9800?style=for-the-badge)
 
 ---
 
 ## Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
 ![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
 
@@ -212,9 +213,19 @@ AI-assisted mental wellness journal.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=544sourav&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=544sourav&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=544sourav&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=544sourav&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=544sourav&theme=tokyonight&hide_border=true"/>
 
 </p>
 
