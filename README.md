@@ -58,15 +58,15 @@ I love turning ideas into production-ready applications while continuously learn
 
 ---
 
-## 🤖 AI / LLM
+## 🤖 AI & LLM Engineering
 
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/Embeddings-orange?style=for-the-badge)
-![Vector_DB](https://img.shields.io/badge/Vector_DB-009688?style=for-the-badge)
-![Tool_Calling](https://img.shields.io/badge/Tool_Calling-blue?style=for-the-badge)
-![Structured_Output](https://img.shields.io/badge/Structured_Output-purple?style=for-the-badge)
-![Prompt_Engineering](https://img.shields.io/badge/Prompt_Engineering-black?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector_Search-009688?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/Tool%20Calling-2196F3?style=for-the-badge)
+![Structured Output](https://img.shields.io/badge/Structured%20Output-FF9800?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-673AB7?style=for-the-badge)
 
 ---
 
